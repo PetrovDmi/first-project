@@ -1,3 +1,3 @@
-public static class Yep {
-
+public static void main(String[] args) {
+     
 }
